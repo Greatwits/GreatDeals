@@ -1,0 +1,8 @@
+com\gw\ecom\shop\model\cart\ShoppingCart.class
+com\gw\ecom\shop\model\product\price\ProductPrice.class
+com\gw\ecom\shop\model\catalog\category\Category.class
+com\gw\ecom\shop\model\customer\Customer.class
+com\gw\ecom\shop\model\cart\ShoppingCartItem.class
+com\gw\ecom\shop\model\cart\ShoppingCartProduct.class
+com\gw\ecom\shop\model\product\Product.class
+com\gw\ecom\shop\model\cart\ViewShoppingCart.class

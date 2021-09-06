@@ -1,0 +1,6 @@
+com\gw\ecom\shop\service\cart\ProductAttributeService.class
+com\gw\ecom\shop\service\cart\ShoppingCartAttributeItemService.class
+com\gw\ecom\shop\service\cart\ProductPriceService.class
+com\gw\ecom\shop\service\cart\ProductService.class
+com\gw\ecom\shop\service\cart\ShoppingCartItemService.class
+com\gw\ecom\shop\service\cart\ShoppingCartService.class

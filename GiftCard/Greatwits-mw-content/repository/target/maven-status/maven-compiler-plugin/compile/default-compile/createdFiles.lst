@@ -1,0 +1,5 @@
+com\gw\ecom\shop\repo\cart\ProductRepo.class
+com\gw\ecom\shop\repo\cart\ShoppingCartItemRepo.class
+com\gw\ecom\shop\repo\cart\ShoppingCartRepo.class
+com\gw\ecom\shop\repo\cart\ProductAttributeRepo.class
+com\gw\ecom\shop\repo\cart\ProductPriceRepo.class
